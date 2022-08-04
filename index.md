@@ -14,11 +14,11 @@
 - [Finding the most remote buildings in Britain](https://medium.com/swlh/finding-the-most-remote-buildings-in-britain-8437cf29717d) - A Geospatial challenge using PostGIS.
 
 ## Geophysics
-- **Complex Bedforms and Complex Water Masses: A Case Study from the Tertiary to Present-day, Pelotas Basin, Offshore Uruguay** - American Geophysical Union - Fall Meeting · Dec 14, 2015American Geophysical Union - Fall Meeting · Dec 14, 2015
-*Co-author.*
-
 - **The missing link: Utilising a global interpretation methodology for the rapid interpretation of 140my of stratigraphy within the Pelotas Basin, offshore Uruguay** - International Association of Sedimentologists: 31st Meeting of Sedimentology, Krakow, Poland. · Jun 22, 2015
 Presented as part of the special session: "SS29. At the cross-roads of Sedimentology and Geophysics" *Primary Author.*
+
+- **Complex Bedforms and Complex Water Masses: A Case Study from the Tertiary to Present-day, Pelotas Basin, Offshore Uruguay** - American Geophysical Union - Fall Meeting · Dec 14, 2015American Geophysical Union - Fall Meeting · Dec 14, 2015
+*Co-author.*
 
 - **Travelling without moving: ever-changing seabed morphology and the influence of contour currents, from Cretaceous to Present-day, within the Pelotas Basin, offshore Uruguay** - International Association of Sedimentologists: 31st Meeting of Sedimentology, Krakow, Poland. · Jun 22, 2015International Association of Sedimentologists: 31st Meeting of Sedimentology, Krakow, Poland. · Jun 22, 2015
 *Co-author.*
