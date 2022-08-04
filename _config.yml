@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
 title: Simon Wrigley 
 description: Geospatial Developer / Geoscientist.
-github_username: Wriglz
-linkedin: simon-wrigley
+
+social_links:
+    github:  wriglz
+    linkedin: simon-wrigley
