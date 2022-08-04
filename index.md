@@ -15,13 +15,13 @@
 
 ## Geophysics
 - **Complex Bedforms and Complex Water Masses: A Case Study from the Tertiary to Present-day, Pelotas Basin, Offshore Uruguay** - American Geophysical Union - Fall Meeting · Dec 14, 2015American Geophysical Union - Fall Meeting · Dec 14, 2015
-Co-author.
+*Co-author.*
 
-- **The missing link: Utilising a global interpretation methodology for the rapid interpretation of 140my of stratigraphy within the Pelotas Basin, offshore Uruguay** - International Association of Sedimentologists: 31st Meeting of Sedimentology, Krakow, Poland. · Jun 22, 2015International Association of Sedimentologists: 31st Meeting of Sedimentology, Krakow, Poland. · Jun 22, 2015
-Primary Author. Presented as part of the special session: "SS29. At the cross-roads of Sedimentology and Geophysics"
+- **The missing link: Utilising a global interpretation methodology for the rapid interpretation of 140my of stratigraphy within the Pelotas Basin, offshore Uruguay** - International Association of Sedimentologists: 31st Meeting of Sedimentology, Krakow, Poland. · Jun 22, 2015
+Presented as part of the special session: "SS29. At the cross-roads of Sedimentology and Geophysics" *Primary Author.*
 
 - **Travelling without moving: ever-changing seabed morphology and the influence of contour currents, from Cretaceous to Present-day, within the Pelotas Basin, offshore Uruguay** - International Association of Sedimentologists: 31st Meeting of Sedimentology, Krakow, Poland. · Jun 22, 2015International Association of Sedimentologists: 31st Meeting of Sedimentology, Krakow, Poland. · Jun 22, 2015
-Co-author.
+*Co-author.*
 
 - **Giant Cretaceous mixed contouritic-turbiditic systems, offshore Uruguay: the interaction between rift-related basin morphology, contour currents and downslope sedimentation.** - AAPG - Annual Convention & Exhibition 2015 · Jun 1, 2015AAPG - Annual Convention & Exhibition 2015 · Jun 1, 2015
-Co-author.
+*Co-author.*
