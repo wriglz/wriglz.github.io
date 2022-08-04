@@ -9,7 +9,7 @@
 
 ***
 
-# Publications
+# My Publications
 ## Geospatial
 - [Finding the most remote buildings in Britain](https://medium.com/swlh/finding-the-most-remote-buildings-in-britain-8437cf29717d) - A Geospatial challenge using PostGIS.
 
