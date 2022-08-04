@@ -5,4 +5,4 @@
 
 
 ## Useful Links
-- [Bounding Box Finder](boundingbox.klokantech.com) - the Klakantech bounding box finder lets you search for a geography (city, state etc.) and will automatically create a bounding box that you can then copy in any standard geospatial format.
+- [Bounding Box Finder](boundingbox.klokantech.com) - the Klokantech bounding box finder lets you search for a geography (city, state etc.) and will automatically create a bounding box that you can then copy in any standard geospatial format.
